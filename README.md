@@ -14,6 +14,7 @@ odalis-mallqui-rios-609105190
 💪 Mis proyectos:
 
 FinderService: App que permite la busqueda de trabajo a las personas que ejercen los siguientes oficios: gasero, carpintero, electricista, etc.
+https://finder-service-bice.vercel.app
 
 Pokemon: App que permite la busqueda de pokemones mediante filtros combinados (fuerza, velocidad, etc) ademas puedes crear un pokemon 😲.
 
