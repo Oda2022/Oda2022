@@ -1,22 +1,39 @@
-Hi 👋
+Hola 👋
 
-Sobre mi 👩:
-Mi camino en el desarrollo web 💻, es un aprendizaje adquirido mediante proyectos y pasantias, que me han dado las bases necesarias para implementar, crear, diseñar a través de diversos lenguajes de programación y proyectos realizados; lo requerido por el cliente 👧 👨 👩 👱 👴 👵.
+Sobre Mí 👩:
+Soy una Desarrolladora Full-Stack con experiencia en Frontend y Backend, especializada en la creación y mantenimiento de aplicaciones web y soluciones digitales. Mi enfoque está en la optimización de procesos, la mejora de la experiencia del usuario y la implementación de tecnologías innovadoras para resolver problemas complejos.
 
-Ser Teaching Assistant 💼, fomento mis habilidades blandas 🙋 (trabajo en equipo, planificación, liderazgo, adaptabilidad, etc.), permitió aprender a conectarme con las personas a mi alrededor (ser empática 🙆🏼), además desarrolle propuestas para afianzar los objetivos del programa, en el grupo que lideraba 🙌.
+🛠️ Habilidades Técnicas
+Lenguajes de Programación: JavaScript | Python | PHP 8.2
 
+Frameworks y Librerías: Laravel | Node.js | Express | React | Redux | jQuery
 
-📫 Buscame en:
-Linkedin: www.linkedin.com/in/
-odalis-mallqui-rios-609105190
+Bases de Datos: SQL Server | PostgreSQL | MySQL | NoSQL | MongoDB
 
+Herramientas de Desarrollo: Docker | Git | Firebase
 
-💪 Mis proyectos:
+Plataformas y CMS: WordPress | WooCommerce | Elementor | WPBakery
 
-FinderService: App que permite la busqueda de trabajo a las personas que ejercen los siguientes oficios: gasero, carpintero, electricista, etc.
-https://finder-service-bice.vercel.app
+Alojamiento y Servidores: SiteGround | HostGator
 
-Creature Explorer: App que permite la busqueda de los personajes animados mediante filtros combinados (fuerza, velocidad, etc) ademas permite crear un nuevo personaje 😲.
+Herramientas de Colaboración: Office 365 | Asana | Trello
+
+Idiomas: Inglés (Nivel Intermedio - Conversacional/Escrito)
+
+💪 Proyectos Destacados
+
+🌟 CasaLinda (https://casalinda.com.pe):
+Desarrollo y optimización de un sitio web minorista, implementando soluciones innovadoras para la gestión de inventario, ventas y experiencia del usuario.
+
+🌟 Club Renacer (https://clubrenacer.com.pe):
+Creación de una plataforma web enfocada en la automatización de procesos y la mejora de la interacción con los clientes.
+
+🌟 Finder Service (https://finder-service-bice.vercel.app):
+Una aplicación que facilita la búsqueda de empleo para oficios como plomeros, carpinteros, electricistas y más.
+
+📫 Conéctate Conmigo
+LinkedIn: www.linkedin.com/in/odalis-mallqui-rios-609105190
+Correo Electrónico: odalismallquir@gmail.com
 
 
 
