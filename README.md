@@ -1,4 +1,4 @@
-### Hi 👋
+Hi 👋
 
 Sobre mi 👩:
 Mi camino en el desarrollo web 💻, es un aprendizaje adquirido mediante proyectos y pasantias, que me han dado las bases necesarias para implementar, crear, diseñar a través de diversos lenguajes de programación y proyectos realizados; lo requerido por el cliente 👧 👨 👩 👱 👴 👵.
